@@ -1,0 +1,10 @@
+Package: testParallel
+Type: Package
+Title: Tests testthat tests with the parallel package
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: Runs test of the parallel package with testthat.
+License: GPL-2
+Suggests: parallel, testthat
+LazyData: TRUE

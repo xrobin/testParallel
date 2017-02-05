@@ -1,0 +1,4 @@
+library(testParallel)
+
+startStopCluster()
+
